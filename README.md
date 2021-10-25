@@ -5,8 +5,11 @@ It is an advertisement blog similar to "Ad Age".
 In this blog CRUD operations can be performed on any advertisement :
 
 Create Advertisement
+
 Read Advertisement
+
 Update Advertisement
+
 Delete Advertisement
 
 
